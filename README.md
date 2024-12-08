@@ -25,3 +25,4 @@ A página principal e página de comentários devem ser apresentadas SOMENTE se 
 Faça um botão de logout na AppBar que apaga todos os dados do usuário logado no SharedPreferences e o redireciona o usuário para a tela de login. 
 
  
+flutter create --org br.com.otuti comunicacao_rest
