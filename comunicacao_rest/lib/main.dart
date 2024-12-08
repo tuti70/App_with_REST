@@ -11,7 +11,7 @@ void main() {
       theme: ThemeData(
         brightness: Brightness.light,
         primaryColor: Color.fromARGB(255, 247, 141, 4),
-        secondaryHeaderColor: Color.fromARGB(255, 247, 141, 4),
+        secondaryHeaderColor: Color.fromARGB(255, 216, 158, 0),
         scaffoldBackgroundColor: const Color.fromARGB(255, 211, 211, 211),
       ),
       initialRoute: "/",
